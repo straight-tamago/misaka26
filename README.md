@@ -17,6 +17,11 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 • Misaka Support ✨ **(Sever 2)**:  
 <a href='https://discord.gg/mVrPxY3X6W'><img align='center' alt='Discord' src='https://img.shields.io/discord/1074625970029477919?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>   
 
+### Installation:
+To fix permission issues on macOS, run:
+```bash
+xattr -c /path/to/misaka.app
+```
 
 ## How to Use
 
