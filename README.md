@@ -20,7 +20,7 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 ### Installation:
 To fix permission issues on macOS, run:
 ```bash
-xattr -c /path/to/misaka.app
+xattr -c /path/to/misaka26.app
 ```
 
 ## How to Use
