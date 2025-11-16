@@ -1,7 +1,7 @@
 # misaka26
 An ultimate customization tool, uilitizing the bug that makes [TrollRestore](https://github.com/JJTech0130/TrollRestore) possible.
-### iOS /iPadOS 16.0 - 26.1
-**Supported iOS 16.0 ~ 26.1**
+### iOS /iPadOS 16.0 - 26.1 & 26.2 beta 1
+**Supported iOS 16.0 ~ 26.1 & 26.2 beta 1**
 
 > [!NOTE]
 > **Use this tool at your own risk. There is a chance you may bootloop, so create a backup before using.**
@@ -21,8 +21,10 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 ## How to Use
 
 ## Supported Features
-- **TrollPad (MultiTasking)** (iOS 18.0+) (require respring, read below)
-  
+- **TrollPad (MultiTasking)** (NEW, require macOS)
+(iOS 18.0+) (need respring, read below)
+
+
 - **TrollStore Installer (iOS 15.2 ~ 16.7RC (20H18) & 17.0)**
 - **Dynamic Island** (iOS 16.0+)
 - **Charge Limit** (iOS 17.0+)
