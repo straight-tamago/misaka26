@@ -20,6 +20,16 @@ Developers: [@34306](https://github.com/34306) [@straight-tamago](https://github
 
 ## How to Use
 
+Download lastest misaka26 on Release tab, place it to `/Applications`
+When open it, go to System Settings > Privacy and Security > Security > Allow running this Application > Open anyway
+
+1. Generate your MobileGestalt by using this [Shortcut](https://routinehub.co/shortcut/23246/#/login)
+2. AirDrop or send it to macOS
+3. Select it in misaka26 application
+4. Enable features
+5. Apply
+6. Profit?
+
 ## Supported Features
 - **TrollPad (MultiTasking)** (NEW, require macOS)
 (iOS 18.0+) (need respring, read below)
@@ -49,7 +59,7 @@ Please do not use camera silence for the purpose of voyeurism. For photographing
 - **Sleep apnea** (iOS 18.0+)
 - **Find My Friend (KH/A devices)**
 
-**Some upcoming features:m** ❤️
+**Some upcoming features:** ❤️
 - **Disable call record greetings**
 - **Allow modify custom path**
 
