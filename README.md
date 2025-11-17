@@ -28,7 +28,7 @@ xattr -c /path/to/misaka26.app
 Download lastest misaka26 on Release tab, place it to `/Applications`
 When open it, go to System Settings > Privacy and Security > Security > Allow running this Application > Open anyway
 
-1. Generate your MobileGestalt by using this [Shortcut](https://routinehub.co/shortcut/23246/#/login)
+1. Generate your MobileGestalt by using this [Shortcut](https://routinehub.co/shortcut/23246/#/login) made by LucaVmu
 2. AirDrop or send it to macOS
 3. Select it in misaka26 application
 4. Enable features
