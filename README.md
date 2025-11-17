@@ -38,6 +38,9 @@ When open it, go to System Settings > Privacy and Security > Security > Allow ru
 ## Supported Features
 - **TrollPad (MultiTasking)** (NEW, require macOS)
 (iOS 18.0+) (need respring, read below)
+- **Enable PWM (iOS 26.0+)**
+- **Enable Security Research Device (SRD) mode (iOS 26.0+)**
+- **Allow Install M chip/Pro chip games on AppStore (eg: RE4) (iOS 26.0+)**
 
 
 - **TrollStore Installer (iOS 15.2 ~ 16.7RC (20H18) & 17.0)**
@@ -76,4 +79,5 @@ Please do not use camera silence for the purpose of voyeurism. For photographing
 ## Credit
 - [Duy Tran](https://github.com/khanhduytran0) for the exploit writeup
 - [hanakim3945](https://github.com/hanakim3945)
+- pengubow for those new flags
 
