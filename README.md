@@ -57,7 +57,7 @@ Please do not use camera silence for the purpose of voyeurism. For photographing
 - **Clock UI** (iOS 18.0+)
 - **SOS Collision** (iOS 18.0+)
 - **TapToWake** (iPhone SE 2/3, iOS 18.0+)
-- **Apple Intelligence** (iOS 18.1 Beta, ALL DEVICES ON 18.1)
+- **Apple Intelligence** (iOS 18.1 Beta+, ALL DEVICES)
 - **Landscape FaceID** (iOS 17.0+)
 - **Old Photo UI** (iOS 18.0+)
 - **iPad Apps Support** (iOS 16.0+)
